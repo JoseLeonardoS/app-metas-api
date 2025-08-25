@@ -1,6 +1,6 @@
 # 🎯 App Metas API
 
-Backend da aplicação **Goals & Tasks**, desenvolvida em **ASP.NET Core** com **Entity Framework Core InMemory**.  
+Backend da aplicação **Metas**, desenvolvida em **ASP.NET Core** com **Entity Framework Core InMemory**.  
 Esta API fornece endpoints para gerenciamento de **Metas (Goals)** e **Tarefas (Tasks)**, consumidos por um frontend em React.
 
 ---
